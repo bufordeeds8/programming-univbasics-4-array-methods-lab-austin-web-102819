@@ -74,4 +74,3 @@ the `last` method instead.
 This method takes in an argument of an array and should return the size, or
 length, of that array. Use the `size` method on that array to get this test
 passing.
-
