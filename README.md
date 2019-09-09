@@ -74,3 +74,5 @@ the `last` method instead.
 This method takes in an argument of an array and should return the size, or
 length, of that array. Use the `size` method on that array to get this test
 passing.
+
+they said I bet they'll never make but just look at th is mo together still holding strong. Still the one I the one I hold on to . yYour still the   onmj e I lopve still the one i kiss goodnijnghtf. hey no woyur better we beatr the odds togetrher Im diving in to listen hey look at what wee are missiong they said but just look at us holding on./ 
